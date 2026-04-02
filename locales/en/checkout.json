@@ -1,0 +1,6 @@
+{
+  "shippingTitle": "Shipping details",
+  "paymentTitle": "Payment method",
+  "successTitle": "Order shell ready",
+  "successMessage": "Checkout routes are wired and ready for the next feature pass."
+}

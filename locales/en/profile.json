@@ -1,0 +1,9 @@
+{
+  "title": "Profile",
+  "settings": "Settings",
+  "language": "Language",
+  "currency": "Currency",
+  "signedInAs": "Signed in as",
+  "authStatus": "Authentication status",
+  "orders": "Order history"
+}

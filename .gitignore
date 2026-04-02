@@ -1,13 +1,15 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
 # dependencies
 node_modules/
 
 # Expo
 .expo/
 dist/
+dist-check/
 web-build/
 expo-env.d.ts
+
+# local bootstrap copy
+__bootstrap/
 
 # Native
 .kotlin/
